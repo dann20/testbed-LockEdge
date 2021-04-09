@@ -1,0 +1,11 @@
+0 Normal		Normal
+1 DDoS			TCP
+2 DDoS			UDP
+3 DDoS			HTTP
+4 DoS			TCP
+5 DoS			UDP
+6 DoS			HTTP
+7 Reconnaissance	Service_Scan
+8 Reconnaissance	OS_Fingerprint
+9 Theft			Data_Exfiltration
+10 Theft		Keylogging
